@@ -44,7 +44,6 @@ The practical hands-on exercises focus on expanding control over tools via the c
 
 ## 📋 Course Announcements & Context
 
-* **Livestream Update:** Day 1 livestream recording is available for replay.
 * **Kaggle Stream Panelists:** Day 2 concepts feed into the scheduled stream panel hosted by Anant Nawalgaria and Smitha Kolan, joined by codelab author Fran Hinkelmann.
 * **Google Expert Insights:** Live guest panel discussions feature Mike Clark, Alan Blount, Kanchana Patlolla, and Pier Paolo Ippolito.
 * **Central Resource Hub:** The Kaggle event boards function as the core checkpoint for community guidelines, asset updates, and live Discord question sourcing.
